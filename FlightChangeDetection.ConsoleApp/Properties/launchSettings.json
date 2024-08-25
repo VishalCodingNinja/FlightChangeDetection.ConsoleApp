@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FlightChangeDetection.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": "2017-01-01 2017-01-15 1"
+    }
+  }
+}
